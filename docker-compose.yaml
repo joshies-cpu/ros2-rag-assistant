@@ -1,11 +1,11 @@
 services:
   web:
-    build: .
+    build: ./backend
     ports:
       - "8000:8000"
     volumes:
-      - ./chroma_db:/app/chroma_db
       - ./data:/app/data
+      - ./frontend:/app/frontend
     environment:
       - OLLAMA_HOST=http://host.docker.internal:11434
     # This allows the container to talk to Ollama running on your Windows/Ubuntu host

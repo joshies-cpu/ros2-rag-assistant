@@ -1,0 +1,8 @@
+source;share/wheelchair/hook/cmake_prefix_path.ps1
+source;share/wheelchair/hook/cmake_prefix_path.dsv
+source;share/wheelchair/hook/cmake_prefix_path.sh
+source;share/wheelchair/local_setup.bash
+source;share/wheelchair/local_setup.dsv
+source;share/wheelchair/local_setup.ps1
+source;share/wheelchair/local_setup.sh
+source;share/wheelchair/local_setup.zsh

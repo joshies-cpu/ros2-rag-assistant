@@ -1,0 +1,1 @@
+/home/joshin/Hybrid Search ETL/hybrid_rag_project/simulation/workspace/build/wheelchair/ament_cmake_environment_hooks/local_setup.sh
